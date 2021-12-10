@@ -1,0 +1,67 @@
+[
+  {
+    "model": "mainapp.product",
+    "pk": 1,
+    "filed": {
+      "category": 2,
+      "name": "Америка",
+      "image": "products_images/product-21.jpg",
+      "short_desc": "Будто на облаке",
+      "description": "Невероятно удобный",
+      "price": "3200.99",
+      "quantity": 16
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 2,
+    "filed": {
+      "category": 2,
+      "name": "Немецкое качество",
+      "image": "products_images/product-2.jpg",
+      "short_desc": "Переживет любые нагрузки",
+      "description": "Отличное качество",
+      "price": "5700.99",
+      "quantity": 21
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 3,
+    "filed": {
+      "category": 2,
+      "name": "Гренландия",
+      "image": "products_images/promo-img2.jpg",
+      "short_desc": "Супер стиль",
+      "description": "Вы не пожалеете",
+      "price": "7800.99",
+      "quantity": 13
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 4,
+    "filed": {
+      "category": 3,
+      "name": "Норвегия",
+      "image": "products_images/product-4.jpg",
+      "short_desc": "Мягкое и теплое",
+      "description": "Вы в нем уснете",
+      "price": "9900.99",
+      "quantity": 5
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 5,
+    "filed": {
+      "category": 3,
+      "name": "Канада",
+      "image": "products_images/product-3-sm.jpg",
+      "short_desc": "Для ценителей",
+      "description": "Просто удобно",
+      "price": "8400.99",
+      "quantity": 7
+    }
+  }
+]
