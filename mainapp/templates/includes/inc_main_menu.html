@@ -4,7 +4,7 @@
     <li>
         <a href="{% url link.menu_session %}"
            class="{% if request.resolver_match.url_name == link.menu_session %} active {% endif %} %}">
-            {{ link.menu_main }}
+            {{ link.name }}
         </a>
     </li>
     {% endfor %}

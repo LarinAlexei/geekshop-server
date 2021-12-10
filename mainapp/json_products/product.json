@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Стулья",
+    "name": "Хочется сидеть вечно",
+    "image": "product-2.jpg",
+    "short_desc": "Очень удобный",
+    "description": "Лучший стул",
+    "price": 6700,
+    "quantity": 21
+  },
+    {
+    "category": "Стулья",
+    "name": "Не оторваться",
+    "image": "product-3.jpg",
+    "short_desc": "Вам он понравится",
+    "description": "эргономичный",
+    "price": 1200,
+    "quantity": 44
+  },
+      {
+    "category": "Стулья",
+    "name": "Не оторваться",
+    "image": "product-4.jpg",
+    "short_desc": "Сделан лучшими мастерами",
+    "description": "хороший",
+    "price": 4800,
+    "quantity": 18
+  },
+        {
+    "category": "Стулья",
+    "name": "Надежный",
+    "image": "product-21.jpg",
+    "short_desc": "Незаменимый",
+    "description": "Лучший выбор",
+    "price": 12000,
+    "quantity": 9
+  }
+]
